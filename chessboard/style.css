@@ -1,0 +1,17 @@
+.board {
+  width: 160px; 
+  height: 160px; 
+  display: flex;
+  flex-wrap: wrap;
+}
+.cell {
+  width: 20px; 
+  height: 20px; 
+  float: left;
+}
+.cell.black {
+  background-color: black;
+}
+.cell.white {
+  background-color: white;
+}

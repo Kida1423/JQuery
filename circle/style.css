@@ -1,0 +1,11 @@
+#canvas{
+    position: relative;
+    width: 1024px; /* Ширина области для рисования */
+    height: 768px; /* Высота области для рисования */
+    border: 1px solid #ccc; /* Граница области для визуализации */
+  }
+  .circle{
+    position: absolute;
+    border-radius: 50%;
+    background-color: red; /* Цвет по умолчанию */
+  }
