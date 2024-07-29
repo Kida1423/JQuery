@@ -1,4 +1,3 @@
-// Массив предопределенных цветов
 const colors = ['#FF5733', '#33FF57', '#3357FF', '#F0F', '#0FF', '#FF0'];
 
 function getRandomColor(){
